@@ -1,0 +1,5 @@
+Description:
+    rails generate acts_as_starable
+
+    no need to specify a name after acts_as_starable as you can not change the model name from Star
+    the acts_as_starable_migration file will be created in db/migrate

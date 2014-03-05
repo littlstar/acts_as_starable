@@ -1,0 +1,5 @@
+gem 'rails', '~>4.0.0'
+gem 'sqlite3'
+gem 'minitest'
+gem 'factory_girl'
+gem 'turn'

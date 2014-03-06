@@ -2,12 +2,17 @@
 
 This gem is based on the structure, functionality, and features of the [acts_as_follower](https://github.com/tcocca/acts_as_follower) gem. It provides the files and methods necessary to enable one ActiveRecord model to star, or to be starred, by another.
 
+## Compatibility
+
+`acts_as_starable` was developed on and tested against Rails `~>4.0.0`. Your mileage will vary on prior versions. It is fairly dependent on both Rails and ActiveRecord but there shouldn't be too much trouble getting it to work on any Rack based application. If anyone is interested in contributing support for Rails versions prior to `4.0.0` please see the [contributing](https://github.com/littlstar/acts_as_starable#contributing) section below.
+
+
 ## Installation
 
 Add this line to your Gemfile:
 
 ```ruby
-gem 'randomuser'
+gem 'acts_as_starable'
 ```
 
 And then execute:

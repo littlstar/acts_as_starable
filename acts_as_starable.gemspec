@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
   gem.email       = ['dom@littlstar.com']
   gem.homepage    = 'https://github.com/littlstar/acts_as_starable'
   gem.summary     = %q{A Rubygem to add staring functionality to ActiveRecord models}
-  gem.description = %q{acts_as_starable is a gem that allows a model to act as a starer of other models or one that can be starred.)}
+  gem.description = %q{acts_as_starable is a gem that allows a model to act as a starer of other models or one that can be starred.}
   gem.license     = 'MIT'
 
   gem.rubyforge_project = 'acts_as_starable'
